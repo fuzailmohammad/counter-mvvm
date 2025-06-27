@@ -1,4 +1,4 @@
-package com.example.counterapp
+package eu.tutorials.countermvvm
 
 import org.junit.Test
 

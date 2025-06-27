@@ -1,4 +1,4 @@
-package com.example.counterapp.ui.theme
+package eu.tutorials.countermvvm.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

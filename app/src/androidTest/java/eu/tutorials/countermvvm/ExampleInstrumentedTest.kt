@@ -1,4 +1,4 @@
-package com.example.counterapp
+package eu.tutorials.countermvvm
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.counterapp", appContext.packageName)
+        assertEquals("eu.tutorials.countermvvm", appContext.packageName)
     }
 }
